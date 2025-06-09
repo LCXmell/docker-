@@ -1,1 +1,2 @@
-OpenRPA
+nginx
+openrpa/openrpa:latest
